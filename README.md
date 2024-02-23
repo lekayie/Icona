@@ -1,0 +1,2 @@
+# Icona
+Figma plugin
